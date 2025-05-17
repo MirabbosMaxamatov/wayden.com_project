@@ -400,9 +400,9 @@ body {
 }
 
 /* Responsive styles */
-@media (max-width: 768px) {
+@media (max-width: 500px) {
     .header {
-        padding: 2.25rem 1.25rem;
+        padding: 2.15rem 1.15rem;
     }
 
     .nav-wrapper {
