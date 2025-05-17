@@ -2,17 +2,17 @@
 const testimonials = [
     {
         image: "https://cdn.builder.io/api/v1/image/assets/TEMP/d7d46d51d597e4dec63cd33e8481c4502c7c59b1?placeholderIfAbsent=true&apiKey=67bf65c60cff43c5b95c7eb6a835806e",
-        name: "Jhon Smith",
+        name: "Sabrina",
         text: "Food Delivery is a thriving business and there are many opportunities for this Businesses as its Growing. Food Delivery is a thriving business"
     },
     {
         image: "https://cdn.builder.io/api/v1/image/assets/TEMP/cc02a7e51ad8414a5c5950472e26aea0ff950f2e?placeholderIfAbsent=true&apiKey=67bf65c60cff43c5b95c7eb6a835806e",
-        name: "Jhon Smith",
+        name: "Sabrina",
         text: "Food Delivery is a thriving business and there are many opportunities for this Businesses as its Growing. Food Delivery is a thriving business"
     },
     {
         image: "https://cdn.builder.io/api/v1/image/assets/TEMP/6deea7dd38c928d4720545970d44c61c56d65607?placeholderIfAbsent=true&apiKey=67bf65c60cff43c5b95c7eb6a835806e",
-        name: "Jhon Smith",
+        name: "Sabrina",
         text: "Food Delivery is a thriving business and there are many opportunities for this Businesses as its Growing. Food Delivery is a thriving business"
     }
 ];
