@@ -21,17 +21,17 @@ const testimonials = [
 const news = [
     {
         image: "https://cdn.builder.io/api/v1/image/assets/TEMP/de8b5245a671234e1d67eb7726a1182d9b003f8e?placeholderIfAbsent=true&apiKey=67bf65c60cff43c5b95c7eb6a835806e",
-        title: "Healthy Food",
+        title: "Ilovada yangilanish",
         description: "Food Delivery is a thriving business and there are many opportunities for this Businesses as its Growing."
     },
     {
         image: "https://cdn.builder.io/api/v1/image/assets/TEMP/13b9807f596815a02a00d58a9a77f872cd8c1304?placeholderIfAbsent=true&apiKey=67bf65c60cff43c5b95c7eb6a835806e",
-        title: "Healthy Food",
+        title: "9-may bilan",
         description: "Food Delivery is a thriving business and there are many opportunities for this Businesses as its Growing."
     },
     {
         image: "https://cdn.builder.io/api/v1/image/assets/TEMP/0bdd9448abc089425230d083990af3c3ccd42ecb?placeholderIfAbsent=true&apiKey=67bf65c60cff43c5b95c7eb6a835806e",
-        title: "Healthy Food",
+        title: "Interface soddaroq qilindi",
         description: "Food Delivery is a thriving business and there are many opportunities for this Businesses as its Growing."
     }
 ];
